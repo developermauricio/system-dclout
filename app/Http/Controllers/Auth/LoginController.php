@@ -59,7 +59,7 @@ class LoginController extends Controller
 
 
     public function redirectPath()
-    {  
+    {
         return sprintf('/%s/profile', session('language'));
     }
 }

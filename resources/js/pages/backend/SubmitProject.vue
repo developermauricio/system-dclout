@@ -557,15 +557,19 @@ export default {
             objectSocialNetworks: [],
 
             listSocialNetworks: [
-                {social: "YouTube", model: "", id: 1},
-                {social: "Facebook", model: "", id: 2},
+                {social: "Website", model: "", id: 1},
+                {social: "YouTube", model: "", id: 2},
                 {social: "Instagram", model: "", id: 3},
-                {social: "Spotify", model: "", id: 4},
-                {social: "Apple Music", model: "", id: 5},
-                {social: "TikTok", model: "", id: 6},
-                {social: "Twitch", model: "", id: 9},
-                {social: "Twitter", model: "", id: 8},
-                {social: "Website", model: "", id: 7}
+                {social: "TikTok", model: "", id: 4},
+                {social: "Facebook", model: "", id: 5},
+                {social: "Twitter", model: "", id: 6},
+                {social: "Spotify", model: "", id: 7},
+                {social: "Apple Music", model: "", id: 8},
+                {social: "Linkedin", model: "", id: 9},
+                {social: "Twitch", model: "", id: 10},
+                {social: "Reddit", model: "", id: 11},
+                {social: "Clubhouse", model: "", id: 12},
+                {social: "Otra", model: "", id: 13},
             ],
 
             errors: {},
